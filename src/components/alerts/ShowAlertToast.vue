@@ -30,7 +30,7 @@ export default{
 .toast-md{
     float: right;
     position: absolute;
-    z-index: 1;
+    z-index: 1051;
     right: 2%;
     top: 1%
 }
